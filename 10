@@ -1,1 +1,4 @@
 C program to check Armstrong number
+(Armstrong number is a number that is equal to the sum of cubes of its digits)
+Sample innput: 153
+Output: 153 is an Armstrong number.
