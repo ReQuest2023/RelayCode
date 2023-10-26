@@ -1,0 +1,7 @@
+Write a C program to calculate the Body Mass Index (BMI) of a person based on their weight in kilograms and height in metres. The program should also provide an interpretation of the BMI category (e.g., underweight, normal weight, overweight).
+[Hint: BMI = Weight in Kg / (height in metres X height in metres) ]
+BMI VALUES:
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater

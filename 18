@@ -1,0 +1,3 @@
+Write a C program to count the number of words in a given sentence or paragraph.
+Sample Input: Enter a sentence: "This is a sample sentence."
+Output: Number of words: 5

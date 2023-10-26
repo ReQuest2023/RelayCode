@@ -1,0 +1,4 @@
+Write a C program to check if a given positive integer is a perfect square.
+Output:
+Enter a positive integer: 25
+25 is a perfect square.

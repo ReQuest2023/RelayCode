@@ -1,0 +1,2 @@
+Write a C program that converts a temperature from Fahrenheit to Celsius or vice versa based on the user's choice. 
+(HINT: °C=(°F−32)× (5/9))

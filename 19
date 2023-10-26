@@ -1,0 +1,5 @@
+Write a C program to calculate the average of 'n' numbers entered by the user.
+Sample Input: 
+Enter the number of values: 5
+Enter the values: 10 20 30 40 50
+Output: Average: 30.00

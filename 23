@@ -1,0 +1,7 @@
+Write a C program that acts as a simple calculator. 
+It takes two numbers and an operator as input and performs the corresponding operation 
+(addition, subtraction, multiplication, division).
+Output:
+Enter two numbers: 10 and 5
+Enter the operator (+, -, *, /): *
+Result: 50

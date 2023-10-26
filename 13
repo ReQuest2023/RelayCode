@@ -1,0 +1,6 @@
+Write a function that calculates the area of a rectangle in C.
+Input:
+Enter length of the rectangle: 8
+Enter width of the rectangle: 5
+Output:
+Area of the rectangle: 40
